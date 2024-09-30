@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-0959ef8c1e79d96d437b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "gittest",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "gittest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gittest-Debug-4db592c5b0572efb25ec.json",
+					"name" : "gittest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gittest_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gittest_autogen-Debug-75b0703a7237e38cfa8a.json",
+					"name" : "gittest_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gittest_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gittest_autogen_timestamp_deps-Debug-a0af8a12fc0dc2b79675.json",
+					"name" : "gittest_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/QT/QTCode/gittest/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "E:/QT/QTCode/gittest"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
